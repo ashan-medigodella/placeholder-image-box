@@ -1,6 +1,6 @@
 {
 	"name": "placeholder-image-box",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A simple React Native component for displaying a box with customizable dimensions and background color.",
 	"main": "index.js",
 	"types": "index.d.ts",
