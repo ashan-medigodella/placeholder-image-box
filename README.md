@@ -40,6 +40,10 @@ const styles = StyleSheet.create({
 
 export default App;
 ```
+![image](https://github.com/ashan-medigodella/placeholder-image-box/assets/57296166/cbcd93b4-7d42-4338-9b64-3578d40f855c)
+
+
+
 ## Props
 
 The BoxImage component accepts the following props:
@@ -49,6 +53,7 @@ The BoxImage component accepts the following props:
 - `backgroundColor (string)`: The background color of the box. Default is "gray".
 
 ### Example
+
 
 ```
 import React from "react";
@@ -76,6 +81,7 @@ const styles = StyleSheet.create({
 
 export default Example;
 ```
+![image](https://github.com/ashan-medigodella/placeholder-image-box/assets/57296166/6132d740-22b4-438f-88be-cc99292a1b99)
 
 ## Contributing
 
