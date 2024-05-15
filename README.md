@@ -94,10 +94,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Issues
 If you encounter any issues, please report them [here](https://github.com/ashan-medigodella/placeholder-image-box/issues).
 
-```
-
 ### How to Use the `README.md`
 
+```
 1. **Create a `README.md` File**:
    Create a `README.md` file in your `placeholder-image-box` directory and copy the above content into it.
 
