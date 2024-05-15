@@ -1,0 +1,26 @@
+{
+  "name": "placeholder-image-box",
+  "version": "1.0.0",
+  "description": "A simple React Native component for displaying a box with customizable dimensions and background color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashan-medigodella/placeholder-image-box.git"
+  },
+  "keywords": [
+    "react-native",
+    "box",
+    "component",
+    "image",
+    "placeholder"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashan-medigodella/placeholder-image-box/issues"
+  },
+  "homepage": "https://github.com/ashan-medigodella/placeholder-image-box#readme"
+}
