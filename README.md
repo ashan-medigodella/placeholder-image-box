@@ -8,7 +8,7 @@ Install the package via npm:
 
 ```bash
 npm install placeholder-image-box
-
+```
 
 ## Usage
 
