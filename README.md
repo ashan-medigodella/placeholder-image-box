@@ -93,20 +93,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Issues
 If you encounter any issues, please report them [here](https://github.com/ashan-medigodella/placeholder-image-box/issues).
-
-### How to Use the `README.md`
-
-```
-1. **Create a `README.md` File**:
-   Create a `README.md` file in your `placeholder-image-box` directory and copy the above content into it.
-
-2. **Update URLs**:
-   Replace `yourusername` with your actual GitHub username in the GitHub repository and issues links.
-
-3. **Commit and Push**:
-   Commit the `README.md` file to your repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-```
